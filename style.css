@@ -1,0 +1,43 @@
+h1{
+    color:rgb(6, 202, 192);
+}
+*{
+    border:solid;
+}
+h2{
+    color: fuchsia;
+}
+p{
+    color:rgb(170, 11, 190)
+}
+.header{
+    background-color:rgb(255, 251, 0);
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.item{
+    font-family: Arial;
+}
+.grid ing{
+    border:2px solid #000000;
+    border-radius: 50px;
+}
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: #000000;
+    padding:15px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    color:orchid;
+}
+body{
+    margin:0px;
+    background-color: #ffb6c1;
+}
